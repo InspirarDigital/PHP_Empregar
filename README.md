@@ -12,7 +12,7 @@ Este projeto foi desenvolvido no treinamento realizado por [Tiago Gouvêa](http:
 
 ### Na pasta resources você encontra ###
 * O script de criação do banco de dados (sem create database)
-* O template do admin (compactei apenas o HTML statico, comprando o original você tem acesso a todos os fontes LESS, SASS, pra angular, jQuery, etc)
+* O template do admin (compactei apenas o HTML statico, comprando o [original](https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S) você tem acesso a todos os fontes LESS, SASS, pra angular, jQuery, Ruby, etc)
 * O template do site
 
 ### Para funcionar localmente ###
