@@ -6,7 +6,7 @@ Este projeto foi desenvolvido no treinamento realizado por [Tiago Gouvêa](http:
 * Foi utilizado MVC para organização dos arquivos
 * Fizemos de maneira bem simples, para exemplificar alguns conceitos
 * Nem o site nem o admin estão completamente desenvolvidos
-* Utilizamos o Slim framewok para gerenciar as rotas e levar as requisições aos Controllers
+* Utilizamos o [Slim framewok](http://www.slimframework.com/) para gerenciar as rotas e levar as requisições aos Controllers
 * No model, neste projeto, não criamos entidades nem implementamos DAO ou Active Record, ou seja, as instâncias dos registros são simples objetos StdClass retornados pelo PDO
 * Utilizamos um template pronto para o Admin ([Inspina](https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S)) e outro para o site ([Freelancer](http://startbootstrap.com/template-overviews/freelancer/)) já que nosso objetivo não era o HTML/CSS/JS
 
